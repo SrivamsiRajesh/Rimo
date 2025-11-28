@@ -3,6 +3,6 @@
 This is just the basic Kernel with Limine Bootloader from OSdev.wiki
 
 # Things to do
-[ ] Text Ouput with framebuffer
-[ ] Text I/O
-[ ] Simple Shell
+- [ ] Basic Text Ouput (with framebuffer)
+- [x] Basic Text Input and Output
+- [x] Basic Shell
