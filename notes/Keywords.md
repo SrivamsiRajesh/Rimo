@@ -10,4 +10,11 @@
 
 - System calls: User-level programs that are signalled to open files, starting applications, etc. Each system handler or call will check if each argument is valid so that it can perform an internal operation to complete the request.
 
+- Assembler: Transalates assembly to machine code
+
+- Linker: Imports other programs from other files and brings it to one page. Basically, like lego bringing blocks to form one toy.
+
+- Make: automation for builds and more
+
+
 
