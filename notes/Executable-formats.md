@@ -4,3 +4,7 @@ An executable format is the file created by the complier and linker. Lets say, y
 
 ### Types of executable files
 
+| Format | Used By |
+|:----------:|:----------:|
+| ELF    | Linux, Unix, BSD    | 
+| PE    | Windows.exe     | 
